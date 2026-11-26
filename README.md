@@ -43,3 +43,6 @@ MAKEFUN_OUTPUT_DIR=out node main.ts   # writes out/entry.png
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Built by [pasukangaming](https://github.com/pasukangaming) for the make.fun
+account @arif-teguh-ristyan.
