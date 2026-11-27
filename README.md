@@ -1,5 +1,9 @@
 # The World Today — 26 November 2026
 
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/pasukangaming/news-26-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/pasukangaming/news-26-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 Entry for the make.fun bounty
 [Sum up 26 November's world news in one image](https://make.fun/bounty/news-image-20261126)
 ($100 shared by the 50 highest-ranked entries, free entry).
@@ -46,3 +50,7 @@ MIT — see [LICENSE](LICENSE).
 
 Built by [pasukangaming](https://github.com/pasukangaming) for the make.fun
 account @arif-teguh-ristyan.
+
+---
+
+Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards
